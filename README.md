@@ -20,8 +20,8 @@ If you have any questions or need help with Python, feel free to ask! I'm more t
 
 ## 📫 How to Reach Me
 
-- Email: [giannathan61@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/giannathan]
+- [Email](giannathan61@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/giannathan)
 
 ##
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiienc)](https://github.com/jiienc)
