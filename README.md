@@ -1,4 +1,4 @@
-<div align="center" style="font-size: medium; color: #447ff7; text-align: center;">
+<div align="center" style="font-size: medium; color: #447ff7;">
   <p align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br>
@@ -22,7 +22,7 @@
     </a>
   </p>
 
-  <h3>🔹Framework:</h3>
+  <h3>🔹Frameworks:</h3>
   <p style="padding: 10px;">
     <a href="https://www.tensorflow.org/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
@@ -45,15 +45,16 @@
   </p>
 
   <h1>📈 Statistics 📈</h1>
+
   <p align="center">
-    ![](https://komarev.com/ghpvc/?username=jiienc&color=447ff7&label=Visitor+count)
+    <img src="https://komarev.com/ghpvc/?username=jiienc&color=447ff7&label=Visitor+count" alt="Visitor Count">
   </p>
 
   <p align="center">
     <a href="https://github.com/jiienc">
-      <img src="https://github-readme-stats.vercel.app/api?username=jiienc&show_icons=true&theme=github_dark&hide_border=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiienc&theme=github-dark-blue&hide_border=true" />
-      <img src="https://activity-graph.herokuapp.com/graph?username=jiienc&theme=react-dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jiienc&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiienc&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
+      <img src="https://activity-graph.herokuapp.com/graph?username=jiienc&theme=react-dark" alt="GitHub Activity Graph"/>
     </a>
   </p>
 
