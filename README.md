@@ -14,11 +14,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     </a>
+    <a href="https://www.php.net/" target="_blank">
+      <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+    </a>
     <a href="https://kotlinlang.org/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     </a>
   </p>
 
@@ -30,12 +30,18 @@
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     </a>
+    <a href="https://laravel.com/" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/laravel.png"/>
+    </a>
   </p>
 
   <h3>🔹Databases:</h3>
   <p style="padding: 10px;">
     <a href="https://www.mysql.com/" target="_blank" style="padding: 15px;">
       <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     </a>
   </p>
 
